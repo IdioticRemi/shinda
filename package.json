@@ -1,0 +1,44 @@
+{
+  "name": "shinda",
+  "version": "1.2.7",
+  "description": "Discord Bot",
+  "main": "client.js",
+  "scripts": {
+    "test": "node client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "ShindaShi",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "chalk": "^2.3.2",
+    "discord.js": "^11.3.2",
+    "enmap": "^0.4.6",
+    "enmap-level": "^1.0.1",
+    "enmap-sqlite": "^1.1.0",
+    "fortnite": "^3.0.0",
+    "fs": "0.0.1-security",
+    "fs-nextra": "^0.3.2",
+    "isgd": "^1.1.3",
+    "moment": "^2.21.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "node-opus": "^0.2.7",
+    "quick.hook": "^1.2.2",
+    "relevant-urban": "^2.0.0",
+    "scalc": "^2.0.1",
+    "simple-youtube-api": "^5.0.1",
+    "snekfetch": "^3.6.4",
+    "superagent": "^3.8.2",
+    "table": "^4.0.3",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.20.2"
+  }
+}
